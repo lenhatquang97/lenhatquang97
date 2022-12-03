@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page. 
 
-I'm currently a 3rd-year student, majoring in Software Engineer. My target is to become a mobile engineer.
+I'm currently a 4th-year student, majoring in Software Engineer. My target is to become a mobile engineer.
 
-- 🌱 I’m currently learning Kotlin and some technical stacks.
-- 👯 I’m looking to collaborate on Flutter and Kotlin.
+- 🌱 I’m currently learning to master Kotlin and Android.
+- 👯 I'm going to research Lightning Network and Taro.
