@@ -11,7 +11,7 @@ I'm currently a 4th-year student, majoring in Software Engineer. My target is to
 <div class="row">
   <div class="column">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?      username=lenhatquang97&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?      username=lenhatquang97&show_icons=true&line_height=27&include_all_commits=true" />
     </a>  
   </div>
   <div class="column">
