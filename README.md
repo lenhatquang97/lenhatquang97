@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Welcome to my GitHub page. 
+Welcome to my profile.
 
 I'm a mobile developer, mostly target Kotlin and Java. I also have some kinda-learning experiences about Flutter and React Native. 
 
