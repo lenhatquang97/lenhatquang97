@@ -4,7 +4,7 @@
 </div>
 
 <h3 id="hi-there">Hi there 👋🎉</h3>
-<p>My name is <strong>Shaunak Chandra</strong> and welcome to my profile.</p>
+<p>My name is <strong>Quang Le</strong> and welcome to my profile.</p>
 <p>I'm a full stack developer. My main track is Kotlin and Python. Also I am on my way to learning Amazon Web Services</p>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
 <h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
