@@ -1,14 +1,10 @@
 ## Welcome to my Github profile 👋
 
-Welcome to my profile.
+I'm a mobile developer, mostly target Kotlin. Besides, I'm on my way to become a full stack engineer.
 
-I'm a mobile developer, mostly target Kotlin and Java. I also have some kinda-learning experiences about Flutter. 
-
-- 🌱 I’m currently learning to master Kotlin and Android.
-- 🌱 I’m currently learning SwiftUI and Golang.
-- 🌱 My blog's: https://lenhatquang97.github.io/. I will update this content in English soon...
-
-## Yayyy!!
+- I'm on my way to learning some new concepts about Cloud like Amazon Web Services.
+ 
+## Welcome to my profile
 
 ![Hello](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
